@@ -2,23 +2,23 @@
 
 ## Da contratação ao onboarding: digitalização do fluxo de equipamentos
 
-### Objetivo
+### O desafio
+O processo de solicitação e preparação de equipamentos para novas contratações não possuía um fluxo formalizado, gerando ruídos de comunicação entre RH, Suporte, CTO e Financeiro.
 
-Estruturar um processo que eliminasse ruídos entre RH, Suporte, CTO e Financeiro na solicitação e preparação de equipamentos para novas contratações.
+### A solução
+Estruturei um novo fluxo para antecipar a necessidade de equipamentos ainda durante o processo de contratação, conectando formulário, análise de estoque, aprovações e comunicações automatizadas.
 
-### Destaques do projeto
+### Principais entregas
+- Redesenho do processo
+- Automação com Power Automate
+- Definição e acompanhamento de SLA
+- Fluxo estruturado de aprovações
+- Comunicação automatizada entre as áreas
+- Formalização do processo para os gestores
 
-- Redesenho completo do fluxo.
-- Automação utilizando Power Automate.
-- Definição de SLA entre as áreas.
-- Comunicação padronizada.
-- Aprovações rastreáveis.
-- Processo formalizado para gestores.
+### Impacto
+Mais previsibilidade, rastreabilidade e alinhamento entre as áreas, reduzindo ruídos e o risco de atrasos no onboarding.
 
-### Resultado esperado
+## 📄 Case completo
 
-Mais previsibilidade, redução de retrabalho e alinhamento entre as áreas envolvidas no onboarding.
-
-## Arquivo completo
-
-📄 **[Baixar o Case 01](./case-01-transformacao-digital-rh.pdf)**
+[**Acessar apresentação do Case 01**](./Case%2001%20-%20Trasnformacao%20digital.pdf)
