@@ -21,4 +21,4 @@ Mais previsibilidade, rastreabilidade e alinhamento entre as áreas, reduzindo r
 
 ## 📄 Case completo
 
-[**Acessar apresentação do Case 01**](./Case%2001%20-%20Transformacao%20digital.pdf)
+[📄 **Abrir / baixar apresentação do Case 01**](https://raw.githubusercontent.com/sabrinadias7-lab/portfolio-rh-transformacao-digital/main/case-01-transformacao-digital/Case%2001%20-%20Transformacao%20digital.pdf)
