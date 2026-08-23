@@ -50,4 +50,6 @@ Case conceitual desenvolvido exclusivamente para fins de simulação e portfóli
 ## 📄 Case completo
 
 
+## 📄 Case completo
+
 [📄 Abrir / baixar apresentação do Case 03](./case-03-gestao-da-mudanca.pdf)
