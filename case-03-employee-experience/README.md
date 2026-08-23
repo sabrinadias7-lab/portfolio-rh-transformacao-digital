@@ -34,4 +34,4 @@ Case conceitual desenvolvido para fins de portfólio.
 
 ## 📄 Case completo
 
-[**Abrir / baixar apresentação do Case 03**](./Case%2003%20-%20Employee%20Experience.pdf)
+[📄 **Abrir / baixar apresentação do Case 03**](./Case%2003%20-%20Gestao%20da%20mudan%C3%A7a.pdf)
