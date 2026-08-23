@@ -1,37 +1,50 @@
-# Case 03 | Employee Experience & Gestão da Mudança
+# Case 03 | Gestão da Mudança
 
-## Do benefício à experiência: estratégia para ampliar conhecimento, acesso e engajamento
+## Da estratégia à adoção
+
+Como estruturar a implementação e a comunicação de uma nova experiência digital de bem-estar em uma organização de grande escala.
 
 ### O desafio
-Oferecer iniciativas de bem-estar não significa necessariamente que elas sejam conhecidas, compreendidas ou utilizadas pelos colaboradores.
+Uma nova solução só gera valor quando passa a fazer parte da experiência das pessoas.
 
-O desafio é transformar recursos já disponíveis em uma experiência mais próxima, acessível e conectada às necessidades das pessoas.
+Neste case, o HUMAN é utilizado como cenário para demonstrar como uma nova experiência digital poderia ser introduzida em uma organização de grande escala, considerando comunicação, preparação das pessoas e adoção.
 
-### A proposta
-Estruturei uma estratégia de Employee Experience para organizar iniciativas de bem-estar e autocuidado em uma jornada mais simples e relevante para o colaborador.
+### A estratégia
+Estruturei a implementação como uma jornada de mudança, conectando cinco etapas:
 
-O projeto considera não apenas a iniciativa final, mas também como preparar a organização, comunicar, gerar adesão e acompanhar a experiência.
-
-### Estratégia de implementação
-- Mapeamento de iniciativas e benefícios existentes
-- Organização da jornada do colaborador
-- Plano de comunicação e sensibilização
-- Envolvimento das lideranças e pessoas multiplicadoras
-- Lançamento da iniciativa
-- Acompanhamento da adesão
-- Pesquisa de percepção e geração de indicadores
+- Diagnosticar
+- Planejar
+- Preparar
+- Implementar
+- Evoluir
 
 ### Gestão da mudança
-A comunicação acontece em diferentes momentos da jornada para gerar conhecimento, compreensão e adesão.
+A proposta considera diferentes públicos, impactos e barreiras antes da implementação.
 
-Lideranças e pessoas multiplicadoras ajudam a aproximar a iniciativa das diferentes áreas e ampliar o diálogo com os colaboradores.
+A comunicação é planejada ao longo da jornada, preparando colaboradores e lideranças para compreender o propósito da mudança e como ela impacta sua experiência.
 
-### Resultado esperado
-Uma experiência mais simples para o colaborador e uma estratégia mais estruturada para RH acompanhar adesão, percepção e oportunidades de melhoria.
+Lideranças e multiplicadores apoiam a comunicação e ajudam a aproximar a iniciativa das diferentes áreas da organização.
+
+### Implementação
+A estratégia conecta:
+
+- Diagnóstico de públicos e impactos
+- Planejamento da mudança
+- Comunicação
+- Preparação de lideranças
+- Rede de multiplicadores
+- Lançamento e ativação
+- Escuta e acompanhamento
+- Evolução contínua
+
+### Objetivo
+O desafio não é apenas lançar uma nova solução.
+
+É criar condições para que as pessoas conheçam, compreendam, experimentem e incorporem a mudança à sua rotina.
 
 ### Sobre o projeto
-Case conceitual desenvolvido para fins de portfólio.
+Case conceitual desenvolvido exclusivamente para fins de portfólio.
 
 ## 📄 Case completo
 
-[📄 **Abrir / baixar apresentação do Case 03**](./Case%2003%20-%20Gestao%20da%20mudan%C3%A7a.pdf)
+[**Abrir / baixar apresentação do Case 03**](./Case%2003%20-%20Gestao%20da%20Mudanca.pdf)
